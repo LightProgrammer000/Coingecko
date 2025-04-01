@@ -5,7 +5,7 @@ from requests import get
 from colorama import Fore
 
 
-# Função: Requisicao a API.
+# Função: Requisicao a API
 def requisicao(url):
 
     try:
